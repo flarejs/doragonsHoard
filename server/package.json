@@ -1,0 +1,27 @@
+{
+  "name": "doragons-server",
+  "version": "0.1.0",
+  "description": "API Server for Doragon's Hoard",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/flarejs/doragonsHoard.git"
+  },
+  "keywords": [
+    "Doragons",
+    "Hoard",
+    "Server"
+  ],
+  "author": "Joshwa Fugett <jfugett27@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flarejs/doragonsHoard/issues"
+  },
+  "homepage": "https://github.com/flarejs/doragonsHoard#readme",
+  "dependencies": {
+    "koa": "^2.3.0"
+  }
+}
